@@ -1,0 +1,9 @@
+#!/bin/bash
+
+cd /opt/orange/marshmallow-jsonapi/
+
+PWD=`pwd`
+echo current working dir is ${PWD}
+/usr/bin/python ./setup.py install
+
+exit
