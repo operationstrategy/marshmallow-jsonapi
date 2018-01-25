@@ -1,9 +1,0 @@
-Package: marshmallow-jsonapi
-Version: 1.0-1
-Section: base
-Priority: optional
-Architecture: amd64
-Installed-Size: SIZE
-Depends: python, python-setuptools
-Maintainer: Aaron Urbain <aaron.u@bigmirrorlabs.com>
-Description: marshmallow-jsonapi from http://marshmallow-jsonapi.rtfd.org/
